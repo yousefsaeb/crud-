@@ -1,0 +1,43 @@
+body {
+    background: #cecece;
+}
+.Lform{
+    background: #2d2d2d;
+    width: 40%;
+    border: 1px solid #ffffff;
+        position: absolute;
+    border-radius: 23px;
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    height: 50%;    box-shadow: 0 0 219px #757575;
+}
+.Lform h1{
+    color: #ffca00;
+    font-family: hanimation;
+    margin-top: -6px; font-size: 42px;
+   
+}
+.Lform h3{
+    color: #fff;
+    font-family: 'Brush Script MT', cursive;
+    text-align: left;
+    margin-left: 30%;
+}
+.textbox{
+    height: 7%;
+    width: 39%;
+    background: #fff;
+    border: 0 solid;
+    border-radius: 6px;
+    box-shadow: inset 3px 3px 4px #9f9f9f;
+}
+.submit{
+    height: 51px;
+    width: 87px;
+    font-size: 20px;
+    margin-top: 18px;
+    font-family: hanimation;
+    color: #2d2d2d;
+}

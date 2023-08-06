@@ -1,0 +1,49 @@
+.btn-primary {
+  font-family: hanimation;
+  --bs-btn-active-bg: #063f94;
+
+}
+.btn-secondary {
+    font-family: hanimation;
+    --bs-btn-active-bg: #666666;
+   
+  }
+  .btn-danger {
+    font-family: hanimation;
+   
+  
+  }
+.form-control {
+  width: 50%;
+  margin: 2% 24%;
+}
+.addform {
+  position: absolute;
+  margin: 10% 34%;
+  background: #00000005;
+  width: 33%;
+  padding: 21px 0 44px 0;
+  font-family: "hanimation";
+  text-align: center;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+}
+
+.container{
+    width: 56%;
+    margin: auto;
+    background: #f3f3f385;
+    margin-top: 10%;
+    padding: 1%;
+    border: 1px solid #0000000d;
+}
+.title h1{
+    height: 0px;
+    position: absolute;
+    top: 8%;
+    left: 43%;
+    font-size: 46px;
+    font-family: 'hanimation';
+    text-shadow: 1px 1px #000;
+    color: #8b8b8b;
+}

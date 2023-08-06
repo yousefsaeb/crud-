@@ -1,0 +1,3 @@
+username:required|min:6|unique
+email:required|email(use regx in php)|unique
+password:required|min:8|mixed(hint: use regx in php
